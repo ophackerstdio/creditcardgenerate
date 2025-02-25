@@ -1,6 +1,6 @@
 # creditcardgenerate
 
-Installation from Termux
+Installation
 
 apt update && apt upgrade
 pkg install pyfiglet termcolor colorama
